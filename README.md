@@ -1,2 +1,2 @@
 # GoTasks
-Web app built with go and react
+Web app built with Golang and React js
